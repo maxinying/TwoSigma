@@ -1,1 +1,1 @@
-# TwoSigma
+# TwoSigma: Kaggle Competition 001
